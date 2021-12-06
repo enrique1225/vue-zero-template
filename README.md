@@ -6,3 +6,17 @@ This is a vue template that converted angular template.
 ![potofolio02](https://user-images.githubusercontent.com/95412201/144765847-88510238-2a0c-4d38-95b7-b55e95079cfb.png)
 ![potofolio03](https://user-images.githubusercontent.com/95412201/144765848-8b38fc65-cd89-4c21-94eb-0ce36a4868a9.png)
 ![potofolio04](https://user-images.githubusercontent.com/95412201/144765849-aaa04bb7-6250-4c26-bbf1-6c720d252f7d.png)
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
